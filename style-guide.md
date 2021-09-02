@@ -11,16 +11,16 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Blue: hsl(223, 87%, 63%)
+- Blue: hsl(223, 87%, 63%) (botão quando hover)
 
 ### Secondary
 
-- Pale Blue: hsl(223, 100%, 88%)
-- Light Red: hsl(354, 100%, 66%)
+- Pale Blue: hsl(223, 100%, 88%) (botão notify me)
+- Light Red: hsl(354, 100%, 66%) (mensagem de erro email)
 
 ### Neutral
 
-- Gray: hsl(0, 0%, 59%)
+- Gray: hsl(0, 0%, 59%) (cor do footer e do h1)
 - Very Dark Blue: hsl(209, 33%, 12%)
 
 ## Typography
